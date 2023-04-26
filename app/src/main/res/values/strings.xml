@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">text2speech</string>
+    <string-array name="languages">
+        <item>English USA</item>
+        <item>Urdu</item>
+        <item>Spanish</item>
+        <item>English UK</item>
+        <item>Mandarin</item>
+        <item>Arabic</item>
+    </string-array>
+</resources>
